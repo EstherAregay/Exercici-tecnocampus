@@ -1,15 +1,9 @@
 import React from "react";
-import "./Exercicis/Graella-fotos/Components/galeria/galeria";
+import "./Exercicis/Comptador/Display/display";
+import Display from "./Exercicis/Comptador/Display/display";
 
 function App() {
-  let imagenes = [];
-
-  return (
-    <>
-      <h1> Galería de imágenes</h1>
-      <galeria />
-    </>
-  );
+  return Display;
 }
 
 export default App;

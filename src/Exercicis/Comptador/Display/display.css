@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(227, 227, 227);
+}
+
+.displayContainer {
+  background-color: white;
+  border: solid 1px black;
+  padding: 10px;
+}
+button {
+  padding: 5px;
+  border-radius: 20px;
+  border-color: black;
+  background-color: white;
+  color: black;
+}
